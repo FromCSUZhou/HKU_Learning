@@ -1,0 +1,6 @@
+openai~=0.27.2
+streamlit~=1.18.1
+streamlit-chat
+watchdog~=2.1.6
+pymongo
+requests
